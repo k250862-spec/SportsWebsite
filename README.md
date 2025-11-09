@@ -2,10 +2,7 @@
 
 Welcome to **All About Sports**, a website dedicated to helping people understand every sport—how it works, what makes it exciting, and why it's loved around the world. Whether you're a curious beginner or a lifelong fan, this site breaks down the rules, gameplay, and history of dozens of sports in a clear, engaging way.
 
-##  Features
-- Beginner-friendly explanations of sports rules and formats
-- Organized by categories for easy navigation
-- Clean, responsive design for desktop and mobile
+
 
 ##  How It Works
 Each sport has its own dedicated page with:
