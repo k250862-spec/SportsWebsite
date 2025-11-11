@@ -11,7 +11,7 @@ Welcome to **All About Sports**, a website dedicated to helping people understan
 Each sport has its own dedicated page with:
 - A brief introduction
 - Step-by-step breakdown of rules
-- Visual aids (optional)
+- Visual aids 
 - Fun facts and trivia
 
 
@@ -29,4 +29,4 @@ Each sport has its own dedicated page with:
 
 Feel free to contribute or suggest new sports to cover!
 
-hi how are you
+
